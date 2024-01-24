@@ -1,15 +1,6 @@
 # React Tic Tac Toe Game
 
 Welcome to our React Tic Tac Toe Game project! This is a collaborative effort by Muhammad Sarib Ibrahim, Mohsin Parvaiz, and Subhan Yousaf.
-Table of Contents
-
-    Introduction
-    Features
-    How to Play
-    Installation
-    Usage
-    Contributing
-    License
 
 ## Introduction
 
