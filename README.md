@@ -12,68 +12,7 @@ Turn-Based Logic: The game follows a turn-based logic, allowing two players to t
 Winner Declaration: The game declares the winner when a player forms a line with their respective symbol (X or O).
 Responsive Design: The application is designed to be responsive, ensuring an optimal gaming experience on various devices.
 
-## How to Play
-
-Setup: Clone the repository and install dependencies.
-
- bash
-
-git clone https://github.com/your-username/react-tic-tac-toe.git
-cd react-tic-tac-toe
-npm install
-
-Run the App: Start the development server.
-
-bash
-
-    npm start
-
-    Open in Browser: Open your browser and navigate to http://localhost:3000.
-
-    Play the Game: Enjoy the game by taking turns with your friend. The winner will be declared when a player forms a line horizontally, vertically, or diagonally.
-
-## Installation
-
-To set up the project locally, follow these steps:
-
-    Clone the repository:
-
-    bash
-
-git clone https://github.com/your-username/react-tic-tac-toe.git
-
-Navigate to the project directory:
-
-bash
-
-cd react-tic-tac-toe
-
-### Install dependencies:
-
-bash
-
-    npm install
-
-Usage
-
-Once the installation is complete, you can run the development server using the following command:
-
-bash
-
-npm start
-
-Open your browser and visit http://localhost:5173 to play the Tic Tac Toe game. Have fun!
-Contributing
-
-We welcome contributions to improve the project. If you would like to contribute, please follow these guidelines:
-
-    Fork the repository.
-    Create a new branch for your feature or bug fix.
-    Make your changes and commit them with a descriptive commit message.
-    Push your branch to your fork.
-    Submit a pull request to the main repository.
-
-License
+##License
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the license terms.
 
