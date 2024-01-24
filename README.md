@@ -71,7 +71,7 @@ bash
 
 npm start
 
-Open your browser and visit http://localhost:3000 to play the Tic Tac Toe game. Have fun!
+Open your browser and visit http://localhost:5173 to play the Tic Tac Toe game. Have fun!
 Contributing
 
 We welcome contributions to improve the project. If you would like to contribute, please follow these guidelines:
