@@ -57,7 +57,7 @@ bash
 
 cd react-tic-tac-toe
 
-Install dependencies:
+### Install dependencies:
 
 bash
 
