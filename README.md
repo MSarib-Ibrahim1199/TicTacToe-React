@@ -12,7 +12,7 @@ Turn-Based Logic: The game follows a turn-based logic, allowing two players to t
 Winner Declaration: The game declares the winner when a player forms a line with their respective symbol (X or O).
 Responsive Design: The application is designed to be responsive, ensuring an optimal gaming experience on various devices.
 
-##License
+## License
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the license terms.
 
